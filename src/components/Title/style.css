@@ -1,0 +1,18 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: unset;
+  color:rgb(96, 121, 190);
+  margin-bottom: 50px;
+  font-family: 'Indie Flower', cursive; 
+  text-emphasis-color:  rgb(235, 142, 230);
+  text-shadow: 10px rgb(235, 142, 230);
+  background-image: "http://www.familyguyyourself.com/images/home/intro-family.png";
+  
+}
+
+.tittle{
+  text-align:center;
+
+}

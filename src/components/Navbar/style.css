@@ -1,0 +1,16 @@
+.f6 {
+  /* background: rgb(235, 142, 230); */
+  height: 10px;
+  justify-content: "flex-end";
+  width: 100%;
+}
+
+
+.f6{
+  color:rgb(96, 121, 190);
+  font-size: 1.5rem;
+  text-decoration-style: double;
+  margin: 3px;
+  /* line-height: 3; */
+  justify-content: "flex-end";
+}
